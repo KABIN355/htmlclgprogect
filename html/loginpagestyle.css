@@ -8,7 +8,7 @@
 
     width: 100%;
 
-    background: coral;
+    background: rgb(7, 52, 52);
 
     position: absolute;
 
@@ -170,17 +170,18 @@ nav ul li a:hover
 
     left: 120px;
 
-	background: rgba(0,0,0,0.6);
+	background: rgba(0, 0, 0, 0);
 
 }
 
 .main-heading
 
 {
+  
+    color: rgb(0, 0, 0);
 
-    color: orangered;
+    padding-bottom: 17px;
 
-    padding-bottom: 20px;
 
 }
 

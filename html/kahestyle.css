@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%);
+    background: rgb(255, 251, 0);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -24,7 +24,7 @@
 }
 
 .logo{
-    color: #ff7200;
+    color: rgb(246, 99, 1);
     font-size: 35px;
     font-family: Arial;
     padding-left: 20px;
@@ -120,6 +120,7 @@ ul li a:hover{
     color: #ff7200;
     font-size: 65px
 }
+
 
 
 
